@@ -7,7 +7,7 @@ DOWNLOAD=downloads
 TEMPLATES=templates
 PUBLICSHARE=public
 DOCUMENTS=documents
-MUSIC=Documents/Music
-PICTURES=Documents/Pictures
-VIDEOS=Documents/Videos
+MUSIC=documents/music
+PICTURES=documents/pictures
+VIDEOS=documents/videos
 
