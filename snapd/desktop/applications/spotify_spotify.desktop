@@ -1,0 +1,11 @@
+[Desktop Entry]
+X-SnapInstanceName=spotify
+Type=Application
+Name=Spotify
+GenericName=Music Player
+Icon=/var/lib/snapd/snap/spotify/42/usr/share/spotify/icons/spotify-linux-128.png
+Exec=env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/spotify_spotify.desktop /var/lib/snapd/snap/bin/spotify --force-device-scale-factor=2 %U
+Terminal=false
+MimeType=x-scheme-handler/spotify;
+Categories=Audio;Music;Player;AudioVideo;
+StartupWMClass=spotify
